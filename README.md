@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Khaoulaaaah
-- 🌱 I’m currently studying data science and data engineering.
+-  Hi, I’m @Khaoulaaaah
+- I'm fresh Computer Science Graduate specialising in data science and data engineering.
